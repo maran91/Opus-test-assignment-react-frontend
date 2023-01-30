@@ -1,4 +1,4 @@
-# Opus PHP + React Developer test assignment frontend
+# Frontend
 
 ## Setup
 
